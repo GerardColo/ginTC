@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/07/28 14:22:48.000.684,=C:\Users\gcolo\Documents\Embarcadero\Studio\Projets\Project2PCH1.h</Transaction>
+    <Transaction>2017/07/28 14:23:51.000.853,=C:\Users\gcolo\Documents\Embarcadero\Studio\Projets\Unit2.cpp</Transaction>
+    <Transaction>2017/07/28 14:46:01.000.969,C:\Users\gcolo\Documents\Embarcadero\Studio\Projets\Project2.cbproj=C:\Users\gcolo\Documents\Embarcadero\Studio\Projets\Project2.cbproj</Transaction>
+    <Transaction>2017/07/30 16:02:59.000.477,=C:\Users\gcolo\Documents\Embarcadero\Studio\Projets\Unit3.cpp</Transaction>
+    <Transaction>2017/07/30 16:03:47.000.246,C:\Users\gcolo\Documents\Embarcadero\Studio\Projets\commGin.h=C:\Users\gcolo\Documents\Embarcadero\Studio\Projets\Unit3.h</Transaction>
+    <Transaction>2017/07/30 16:03:47.000.246,C:\Users\gcolo\Documents\Embarcadero\Studio\Projets\commGin.cpp=C:\Users\gcolo\Documents\Embarcadero\Studio\Projets\Unit3.cpp</Transaction>
+    <Transaction>2017/08/18 11:23:36.000.262,C:\CBLogic\CXLogic\ginTC\ginTCPCH1.h=C:\Users\gcolo\Documents\Embarcadero\Studio\Projets\Project2PCH1.h</Transaction>
+    <Transaction>2017/08/18 11:23:36.000.516,C:\CBLogic\CXLogic\ginTC\ginTC.cbproj=C:\Users\gcolo\Documents\Embarcadero\Studio\Projets\Project2.cbproj</Transaction>
+    <Transaction>2017/08/18 11:24:42.000.689,C:\CBLogic\CXLogic\common\commGin.cpp=C:\Users\gcolo\Documents\Embarcadero\Studio\Projets\commGin.cpp</Transaction>
+    <Transaction>2017/08/18 11:24:42.000.689,C:\CBLogic\CXLogic\common\commGin.h=C:\Users\gcolo\Documents\Embarcadero\Studio\Projets\commGin.h</Transaction>
+    <Transaction>2017/08/18 11:26:19.000.881,C:\CBLogic\CXLogic\ginTC\ginTC_go.dfm=C:\Users\gcolo\Documents\Embarcadero\Studio\Projets\Unit2.dfm</Transaction>
+    <Transaction>2017/08/18 11:26:19.000.881,C:\CBLogic\CXLogic\ginTC\ginTC_go.h=C:\Users\gcolo\Documents\Embarcadero\Studio\Projets\Unit2.h</Transaction>
+    <Transaction>2017/08/18 11:26:19.000.881,C:\CBLogic\CXLogic\ginTC\ginTC_go.cpp=C:\Users\gcolo\Documents\Embarcadero\Studio\Projets\Unit2.cpp</Transaction>
+    <Transaction>2017/08/18 11:26:54.000.018,C:\CBLogic\CXLogic\ginTC\ginTCPCH1.h=</Transaction>
+    <Transaction>2017/08/21 14:59:26.000.306,=C:\CBLogic\CXLogic\ginTC\File1.cpp</Transaction>
+    <Transaction>2017/08/21 15:00:11.000.358,C:\CBLogic\CXLogic\ginTC\commPrg.cpp=C:\CBLogic\CXLogic\ginTC\File1.cpp</Transaction>
+    <Transaction>2017/08/21 15:01:07.000.635,C:\CBLogic\CXLogic\ginTC\commPrg.cpp=</Transaction>
+    <Transaction>2017/08/21 15:02:01.000.366,=C:\CBLogic\CXLogic\ginTC\File1.h</Transaction>
+    <Transaction>2017/08/21 15:20:05.000.278,C:\CBLogic\CXLogic\ginTC\commPrg.h=C:\CBLogic\CXLogic\ginTC\File1.h</Transaction>
+    <Transaction>2017/08/22 15:13:16.000.819,C:\CBLogic\CXLogic\ginTC\commPrg.h=C:\CBLogic\CXLogic\ginTC\constGin.h</Transaction>
+  </Transactions>
+</BorlandProject>
