@@ -1,7 +1,7 @@
-object formGinTC_go: TformGinTC_go
-  Left = 185
-  Top = 162
-  Anchors = []
+object formTC_go: TformTC_go
+  Left = 0
+  Top = 0
+  Align = alCustom
   Caption = 'Connexion'
   ClientHeight = 200
   ClientWidth = 475
@@ -12,8 +12,6 @@ object formGinTC_go: TformGinTC_go
   Font.Name = 'Tahoma'
   Font.Style = []
   OldCreateOrder = False
-  Position = poDesigned
-  Scaled = False
   OnActivate = FormActivate
   OnCreate = FormCreate
   PixelsPerInch = 96
@@ -31,6 +29,7 @@ object formGinTC_go: TformGinTC_go
     Width = 57
     Height = 13
     Caption = 'Identifiant :'
+    Visible = False
   end
   object LabPass: TLabel
     Left = 217
@@ -38,6 +37,7 @@ object formGinTC_go: TformGinTC_go
     Width = 71
     Height = 13
     Caption = 'Mot de passe :'
+    Visible = False
   end
   object LabGinIni: TLabel
     Left = 6
@@ -74,6 +74,7 @@ object formGinTC_go: TformGinTC_go
     Height = 21
     TabOrder = 1
     TextHint = '(Votre identifiant)'
+    Visible = False
   end
   object EdiPass: TEdit
     Left = 297
@@ -83,6 +84,7 @@ object formGinTC_go: TformGinTC_go
     PasswordChar = '*'
     TabOrder = 2
     TextHint = '(Votre mot de passe)'
+    Visible = False
   end
   object CboGinIni: TComboBox
     Left = 210

@@ -1,6 +1,6 @@
 object formGinTC_go: TformGinTC_go
-  Left = 185
-  Top = 162
+  Left = 0
+  Top = 0
   Anchors = []
   Caption = 'Connexion'
   ClientHeight = 200
@@ -12,7 +12,7 @@ object formGinTC_go: TformGinTC_go
   Font.Name = 'Tahoma'
   Font.Style = []
   OldCreateOrder = False
-  Position = poDesigned
+  Position = poScreenCenter
   Scaled = False
   OnActivate = FormActivate
   OnCreate = FormCreate

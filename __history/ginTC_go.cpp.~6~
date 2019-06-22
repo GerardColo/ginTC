@@ -24,21 +24,21 @@ void __fastcall TformGinTC_go::FormActivate(TObject *Sender)
 	if (okActif)
 		return;
 	okActif=true;
-	LabBitBtnIdentif->Enabled=false;
-	BitBtnIdentif->Enabled=false;
-	EdiIdentif->Enabled=false;
-	LabIdentif->Enabled=false;
-	EdiPass->Enabled=false;
-	LabPass->Enabled=false;
+	LabBitBtnIdentif->Enable=false;
+	BitBtnIdentif->Enable=false;
+	EdiIdentif->Enable=false;
+	LabIdentif->Enable=false;
+	EdiPass->Enable=false;
+	LabPass->Enable=false;
 }
 //---------------------------------------------------------------------------
 void __fastcall TformGinTC_go::BitBtnIdentifClick(TObject *Sender)
 {
 	Beep();
-	EdiIdentif->Enabled=true;
-	LabIdentif->Enabled=true;
-	EdiPass->Enabled=true;
-	LabPass->Enabled=true;
+	EdiIdentif->Enable=true;
+	LabIdentif->Enable=true;
+	EdiPass->Enable=true;
+	LabPass->Enable=true;
 
 }
 //---------------------------------------------------------------------------
@@ -48,13 +48,13 @@ void __fastcall TformGinTC_go::BitBtnIniClick(TObject *Sender)
 		CboGinIni->Items->Clear();
 		CboGinIni->Items->Add(OpenDialogIni->FileName);
 		CboGinIni->ItemIndex=0;
-		LabBitBtnIdentif->Enabled=true;
-		BitBtnIdentif->Enabled=true;
+		LabBitBtnIdentif->Enable=true;
+		BitBtnIdentif->Enable=true;
 	}
 	else	{
 		CboGinIni->Items->Clear();
-		LabBitBtnIdentif->Enabled=false;
-		BitBtnIdentif->Enabled=false;
+		LabBitBtnIdentif->Enable=false;
+		BitBtnIdentif->Enable=false;
 	}
 }
 //---------------------------------------------------------------------------
